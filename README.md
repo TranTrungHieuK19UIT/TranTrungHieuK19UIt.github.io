@@ -1,5 +1,4 @@
-# TranTrungHieuK19UIt.github.io
-Tran Trung Hieu
+# TranTrungHieu
 I'm a first-year student at the University of Information Technology (UIT), passionate about computer science and technology. I'm constantly learning and excited to explore new areas in the field of IT. Here's a little about me:
 -  Currently studying **Computer Science** at **UIT**
 -  Interested in **Artificial Intelligence**, **Machine Learning**, and **Data Science**
