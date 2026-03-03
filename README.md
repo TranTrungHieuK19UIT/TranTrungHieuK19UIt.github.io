@@ -6,4 +6,3 @@ I'm a first-year student at the University of Information Technology (UIT), pass
 -  My goal is to become a skilled developer and contribute to innovative tech projects
 ## Contact
 - Email: [24520516@gm.uit.edu.vn]
-- LinkedIn: [](https://www.linkedin.com/in/trung-hi%E1%BA%BFu-tr%E1%BA%A7n-185930325/)
